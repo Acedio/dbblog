@@ -1,0 +1,46 @@
+* {padding:0px;margin:0px}
+
+body {text-align:center;background-color:#FFF;color:#666;font-family:arial}
+a {color:#C60}
+a:link {text-decoration:none}
+a:visited {text-decoration:none}
+a:active {text-decoration:none}
+a:hover {text-decoration:underline}
+img {border:0px}
+#frame {text-align:left;width:750px;padding:0px;margin-left:auto;margin-right:auto}
+
+#content {width:530px;float:left;padding:0px 10px 0px 10px}
+
+.post {margin:0px 0px 20px 0px;padding:10px 10px 0px 10px;border-top:2px dashed #CCC}
+.post h2 {color:#C60}
+.post h2 a:hover {text-decoration:none}
+.post h4 {color:#AAA;font-size:60%;margin:0px 0px 10px 0px}
+.post p {}
+.post input {margin:0px 0px 10px 0px;width:250px;color:#777;background:#FFF;border: 1px solid #AAA}
+.post textarea {margin:0px 0px 10px 0px;width:500px;height:250px;color:#777;background:#FFF;border: 1px solid #AAA}
+.post .submit input {width:100px;color:#AAA;border: 1px solid #AAA}
+.post .ccount {color:#C60;text-align:right;margin:5px 0px 0px 0px}
+
+#checkbox {width:20px;color:#AAA;border: 1px solid #AAA}
+
+#comments h2 {color:#C60;margin:0px 0px 0px 10px}
+#comments h4 {color:#AAA;font-size:60%}
+.comment p {margin:10px 0px 0px 0px}
+.comment {margin:0px 0px 10px 0px;padding:0px 10px 0px 10px;border-top:1px dashed #CCC}
+.comment input {margin:0px 0px 10px 0px;width:250px;color:#777;background:#FFF;border: 1px solid #AAA}
+.comment textarea {margin:0px 0px 10px 0px;width:400px;height:150px;color:#777;background:#FFF;border: 1px solid #AAA}
+.comment .submit input {width:100px;color:#AAA;border: 1px solid #AAA}
+
+#paging {padding:20px 0px 50px 0px;text-align:center;border-top:2px dashed #CCC}
+
+#navi {width:200px;float:left}
+#navi h4 {color:#AAA;font-size:70%}
+#navi ul {list-style-type:none}
+#navi li {margin:5px 0px 0px 0px;color:#AAA;font-size:100%}
+#navi li li {margin:0px 0px 0px 5px;color:#AAA;font-size:80%}
+#navi input {width:80px;margin:0px 0px 10px 0px;color:#C60;background:#FFF;border: 1px solid #AAA}
+#navi .submit input {width:50px;color:#AAA}
+
+#header {padding:10px;width:550px;text-align:center}
+#header pre {color:#C60;text-decoration:none}
+#header pre a:hover {text-decoration:none}
